@@ -1,0 +1,21 @@
+{
+  "name": "sinon-lazy-stub",
+  "version": "0.1.0",
+  "description": "Sinon.JS lazy (and efficient) stub creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r should",
+    "test-watch": "mocha -r should -w -G -R min"
+  },
+  "keywords": [
+    "sinon",
+    "stub"
+  ],
+  "author": "nemtsov@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.20.0",
+    "should": "^4.0.0",
+    "sinon": "^1.10.1"
+  }
+}
