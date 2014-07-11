@@ -1,6 +1,6 @@
 {
   "name": "sinon-lazy-stub",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sinon.JS lazy (and efficient) stub creator",
   "repository": "https://github.com/nemtsov/sinon-lazy-stub.git",
   "main": "index.js",
