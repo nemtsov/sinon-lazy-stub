@@ -2,6 +2,7 @@
   "name": "sinon-lazy-stub",
   "version": "0.1.0",
   "description": "Sinon.JS lazy (and efficient) stub creator",
+  "repository": "https://github.com/nemtsov/sinon-lazy-stub.git",
   "main": "index.js",
   "scripts": {
     "test": "mocha -r should",
